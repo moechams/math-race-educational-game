@@ -33,7 +33,29 @@ Math Race is designed to make learning math fun and interactive. Players race ag
 
 ## Screenshots
 
-*[Screenshots will be added here]*
+### Main Menu
+![Main Menu](images/finalmenu1.png)
+*MathDash main menu showing the racing theme and math operators*
+
+### How to Play
+![How to Play](images/howtoplayfinal.png)
+*Tutorial screen explaining race mechanics and answer submission*
+
+### Game Interface
+![Race Track](images/racetrackbackgroundfinal.png)
+*The racing interface where players compete against the CPU*
+
+### Difficulty Selection
+![Difficulty Selection](images/selectDifficultySectionFinal.png)
+*Screen for selecting difficulty levels for each math operation*
+
+### Section Selection
+![Section Selection](images/selectSectionUIFinal.png)
+*Selection screen for different math operations*
+
+### High Scores
+![High Scores](images/scoreboard_background3.png)
+*Leaderboard showing top player performances*
 
 ## Technical Implementation
 
